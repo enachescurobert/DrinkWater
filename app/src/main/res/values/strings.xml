@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Drink Water</string>
+    <string name="channel_name">cacat</string>
+    <string name="channel_description">si mai mult cacat</string>
+    <string name="notification_title">Stand Up Alert</string>
+    <string name="notification_text">You should stand up and walk around now!</string>
+    <string name="alarm_on_toast">Stand Up Alarm On!</string>
+    <string name="alarm_off_toast">Stand Up Alarm Off!</string>
+</resources>
