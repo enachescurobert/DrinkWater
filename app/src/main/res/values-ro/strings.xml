@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bea Apa</string>
+    <string name="alarm_off_toast">Alarma oprită!</string>
+    <string name="alarm_on_toast">Alarma pornită!</string>
+    <string name="channel_description">asta o să ne ajure aplicația</string>
+    <string name="channel_name">canalul de băut ap</string>
+    <string name="notification_text">Trebuie să te ridici și să bei un pahar de apă !</string>
+    <string name="notification_title">Alarma de băut apă!</string>
+</resources>
