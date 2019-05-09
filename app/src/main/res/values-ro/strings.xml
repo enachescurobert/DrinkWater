@@ -7,4 +7,6 @@
     <string name="channel_name">canalul de băut ap</string>
     <string name="notification_text">Trebuie să te ridici și să bei un pahar de apă !</string>
     <string name="notification_title">Alarma de băut apă!</string>
+    <string name="alarm_is_off">Alarma este oprită</string>
+    <string name="alarm_is_on">Alarma este pornită!</string>
 </resources>

@@ -6,4 +6,6 @@
     <string name="notification_text">You should stand up and drink a glass of water!</string>
     <string name="alarm_on_toast">Drink Water Alarm On!</string>
     <string name="alarm_off_toast">Drink Water Alarm Off!</string>
+    <string name="alarm_is_on">Alarm is on</string>
+    <string name="alarm_is_off">Alarm is off</string>
 </resources>

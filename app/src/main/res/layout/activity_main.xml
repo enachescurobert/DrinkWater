@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:background="#91CDDD">
 
     <pl.droidsonroids.gif.GifImageView
         android:layout_width="wrap_content"
@@ -23,8 +24,8 @@
         android:id="@+id/alarmToggle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textOff="Alarm off"
-        android:textOn="Alarm on"
+        android:textOff="@string/alarm_is_off"
+        android:textOn="@string/alarm_is_on"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintLeft_toLeftOf="parent"

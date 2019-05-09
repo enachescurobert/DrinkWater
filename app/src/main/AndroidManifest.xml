@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.drinkwater">
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.enachescurobert.drinkwater">
 
     <application
         android:allowBackup="true"
@@ -8,11 +9,12 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/bottle"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme">
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
         <receiver
             android:name=".AlarmReceiver"
             android:enabled="true"
-            android:exported="false"></receiver>
+            android:exported="false" />
 
         <activity android:name=".MainActivity">
             <intent-filter>
